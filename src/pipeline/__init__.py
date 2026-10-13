@@ -1,0 +1,1 @@
+"""Pipeline package — graph, workers, job utilities."""
