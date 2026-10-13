@@ -1,0 +1,1 @@
+"""Workers — one stage of the pipeline each."""
