@@ -1,0 +1,1 @@
+"""Handlers — thin adapters between UI/CLI and the pipeline."""
